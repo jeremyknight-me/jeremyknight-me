@@ -1,5 +1,5 @@
 ## Jeremy Knight
-Tinkerer since 1998. Professional since 2005. You can find more information at https://www.jeremyknight.me/
+Professional since 2005. More information at https://www.jeremyknight.me/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyknight-me&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
