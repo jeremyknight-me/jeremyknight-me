@@ -1,7 +1,7 @@
 ## Jeremy Knight
 Professional since 2005. More information at https://www.jeremyknight.me/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyknight-me&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyknight-me&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyknight-me&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
