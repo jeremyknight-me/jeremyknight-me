@@ -11,4 +11,4 @@ ALL of [my repositories](https://github.com/jeremyknight-me?tab=repositories) ar
 ### Support Me/My Projects
 If any of my projects have helped you, I would very much appreciate it if you would [buy me a coffee](https://ko-fi.com/jeremyknight). 
 
-<a href='https://ko-fi.com/jeremyknight' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q23G0DD)
